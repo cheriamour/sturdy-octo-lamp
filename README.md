@@ -1,2 +1,2 @@
 # sturdy-octo-lamp
-First GitHun Repository
+First GitHub Repository
